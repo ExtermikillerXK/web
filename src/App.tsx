@@ -21,7 +21,7 @@ interface PluginManifest {
   url: string;
 }
 
-const base = "https://vd-plugins.github.io/proxy/plugins-full.json";
+const base = "https://extermikillerxk.github.io/proxy/plugins-full.json";
 
 const getPlugins = () =>
   fetch(base)
